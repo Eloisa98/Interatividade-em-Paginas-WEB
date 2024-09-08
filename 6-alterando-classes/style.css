@@ -1,0 +1,44 @@
+body{
+    height: auto; 
+    margin: 0;    
+    padding: 0;  
+    background-color: rgb(255, 170, 223);
+    color: rgb(150, 3, 3);
+}
+
+.lista {
+    width: 70px;
+    color: black;
+    cursor: pointer; 
+    background-repeat: no-repeat; 
+    background-image: url('icons8-coração-30.png');
+}
+.listaSelecionada {
+    width: 105px;
+    color: red;
+    font-weight: bold;
+    background-repeat: no-repeat; 
+    background-image: url('icons8-coração-48.png');
+
+}
+.container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    min-height: 50vh; 
+}
+.grid-container {
+    display: grid;
+    text-align: center;
+    width: 500px;
+    grid-template-columns: repeat(4, 1fr); 
+    gap: 10px; 
+    list-style: none; 
+}
+
+.grid-container li {
+    padding: 10px; 
+}
+

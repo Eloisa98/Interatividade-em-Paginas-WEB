@@ -1,0 +1,8 @@
+.texto {
+    text-align: center;
+    font-weight: bold;
+    background-color: pink;
+}
+#hidden-text {
+    display: none;
+}

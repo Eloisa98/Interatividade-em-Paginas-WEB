@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+    background-color: pink;
+  }
+  
+  .btn-click {
+    display: flex;
+    justify-content: center;
+  }
+  
+  #clickable {
+    border: 2px solid white;
+    background-color: rgb(180, 52, 206);
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  #clickable:hover {
+    color: black;
+    border: 2px solid black;
+    background-color: pink;
+  }
+  
