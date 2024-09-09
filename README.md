@@ -110,3 +110,11 @@ Este repositório contém uma série de exercícios focados em adicionar interat
 - No arquivo `script.js`, crie um "Accordion" onde todas as divs de “accordion” começam com conteúdo oculto.
 - Ao clicar em uma `<div class="accordion-item">`, mostre seu conteúdo e esconda o conteúdo das outras divs de classe `accordion-item`.
 
+
+
+## 🚀 Como Executar os Exercícios
+
+1. Clone o repositório:\
+   bash\
+   git clone https://github.com/Eloisa98/TP2-Javascript-II.git
+
