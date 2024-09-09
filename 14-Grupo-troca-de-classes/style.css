@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+  background-color: rgb(78, 62, 64);
+}
+.azul {
+  background-color: blue;
+  color: white;
+}
+
+.vermelho {
+  background-color: red;
+  color: white;
+}

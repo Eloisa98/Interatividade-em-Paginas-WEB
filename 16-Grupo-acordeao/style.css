@@ -1,0 +1,14 @@
+body{
+  background-color: pink;
+  color: rgb(151, 7, 7);
+}
+.accordion-content {
+  display: none; 
+}
+
+.accordion-item {
+  cursor: pointer; 
+  padding: 10px;
+  border: 2px solid #ca9d9d;
+  margin: 5px 0;
+}

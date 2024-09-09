@@ -6,7 +6,7 @@ const app = express();
 const port = 3000;
 
 // Recebe o caminho da pasta do projeto como argumento
-const projectFolder = process.argv[2] || path.join(__dirname, '11-adicionando-dinamicamente'); 
+const projectFolder = process.argv[2] || path.join(__dirname, '16-Grupo-acordeao'); 
 
 // Verifica se o caminho foi passado e existe
 if (!projectFolder) {
