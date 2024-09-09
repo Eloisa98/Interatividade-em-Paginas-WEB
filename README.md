@@ -116,5 +116,5 @@ Este repositório contém uma série de exercícios focados em adicionar interat
 
 1. Clone o repositório:\
    bash\
-   git clone https://github.com/Eloisa98/TP2-Javascript-II.git
+   git clone https://github.com/Eloisa98/TP2-Interatividade-em-Pags-WEB.git
 
